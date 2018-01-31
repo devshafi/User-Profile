@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Users Profile</string>
+
+    <string name="institute_name">Metropolitan University Sylhet Sylhet Sylhet Sylhet Sylhet</string>
+    <string name="field_of_study">Computer Science And Engineering</string>
+    <string name="degree">Bachelors Of Science</string>
+    <string name="grade">B+ Second Class</string>
+    <string name="passing_year">2012-2015</string>
+    <string name="instituite_fix_name">Institution</string>
+    <string name="degree_fix_name">Degree</string>
+    <string name="grade_fix_name">Grade</string>
+    <string name="field_of_study_fix_name">Field of Study</string>
+    <string name="passing_year_fix_name">Duration of Study</string>
+    <string name="from">From</string>
+    <string name="from_text">2005</string>
+    <string name="to">To</string>
+    <string name="to_text">2007</string>
+</resources>
